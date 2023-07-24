@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="192.004" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Online Shopping" name="Add and remove items and check them" time="191.772">
+<system-out><![CDATA[
+Given I add four random items to my cart....................................passed
+When I view my cart.........................................................passed
+Then I find total four items listed in my cart..............................passed
+When I search for lowest price item.........................................passed
+And I am able to remove the lowest price item from my cart..................passed
+Then I am able to verify three items in my cart.............................passed
+]]></system-out>
+</testcase>
+</testsuite>
